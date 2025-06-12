@@ -1,5 +1,7 @@
 # Deepfake Classification Project
 
+For a more in-depth detailing of the experiments, the training process, and all conclusions drawn, please refer to the full [documentation](documentation.pdf)
+
 This repository documents a Deepfake Classification project. This project focuses on classifying AI-generated images. The primary challenge involved gaining a deeper understanding of how AI models generate images and then successfully identify and utilize the unique characteristics introduced during the generation process.
 
 ## Table of Contents
@@ -9,9 +11,6 @@ This repository documents a Deepfake Classification project. This project focuse
 * [Methodology Highlights](#methodology-highlights)
 * [Key Findings](#key-findings)
 * [Project Structure](#project-structure)
-* [Setup and Installation](#setup-and-installation)
-* [Usage](#usage)
-* [Author & Coordinator](#author--coordinator)
 
 ## Introduction
 
