@@ -10,7 +10,6 @@ This repository documents a Deepfake Classification project. This project focuse
 * [Dataset](#dataset)
 * [Methodology Highlights](#methodology-highlights)
 * [Key Findings](#key-findings)
-* [Project Structure](#project-structure)
 
 ## Introduction
 
