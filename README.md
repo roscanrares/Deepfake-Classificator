@@ -2,6 +2,8 @@
 
 For a more in-depth detailing of the experiments, the training process, and all conclusions drawn, please refer to the full [documentation](documentation.pdf)
 
+The Kaggle score is not 100% representative; the trained model was run for 100 epochs and exhibits overfitting. Running the current code for a higher number of epochs (approximately 150) leads to higher accuracy.
+
 This repository documents a Deepfake Classification project. This project focuses on classifying AI-generated images. The primary challenge involved gaining a deeper understanding of how AI models generate images and then successfully identify and utilize the unique characteristics introduced during the generation process.
 
 ## Table of Contents
